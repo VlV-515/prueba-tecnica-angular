@@ -12,6 +12,21 @@ Crear una aplicación en Angular que consulte información de una API pública, 
 
 ---
 
+## 🚫 Restricciones en el Uso de Inteligencia Artificial
+
+**Durante la realización de esta prueba, no se permite el uso de herramientas de inteligencia artificial generativa de código, tanto en línea como extensiones de editores de código (ejemplo: Copilot, Codeium, ChatGPT, Gemini, DeepSeek, etc.).**
+
+**Sí se permite el uso de:**
+
+* Internet para búsqueda de documentación y recursos.
+* Documentación oficial de lenguajes y frameworks.
+* Sitios web de "cheatsheets" o guías de referencia.
+* Extensiones de editores de código que no generen código automáticamente (ejemplo: formateadores de código, linters, etc.).
+
+El objetivo de esta restricción es evaluar las habilidades de codificación y resolución de problemas del candidato de forma individual.
+
+---
+
 ## 📌 Requisitos
 
 ## 1. Página de Bienvenida
@@ -46,4 +61,4 @@ En la página de **Detalles**, debe haber un botón que permita volver a la pág
 
 * Se valorará la organización del código, la claridad en la implementación y el manejo de posibles errores (aunque no sea un requisito estricto para esta prueba).
 
-¡Mucho éxito!
+¡Mucho éxito!ﬁ
