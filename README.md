@@ -13,7 +13,7 @@ Crear una aplicación en Angular que consulte información de una API pública, 
 1. **Pagina de bienvenida** donde muestre de forma centrada tu nombre y un boton que lleve a listado de usuarios.
 2. **Pagina que muestre el listado de ususarios consumidos dese una API:**
    - **Consumir el api de:**
-   - `https://jsonplaceholder.typicode.com/users`
+      - `https://jsonplaceholder.typicode.com/users`
    - **Listar los usuarios en una tabla**, mostrando al menos:
       - ID
       - Nombre
